@@ -102,16 +102,28 @@ img {
     background-color: rgba(255, 0, 0, 0.65);
 }
 
-.dot.yellow {
-    background-color: rgba(245, 255, 0, 0.65);
+.dot.blue {
+    background-color: rgba(11, 39, 255, 0.65);
 }
 
 .dot.purple {
-    background-color: rgba(215, 35, 255, 0.65);
+    background-color: rgba(120, 0, 204, 0.65);
 }
 
 .dot.gray {
     background-color: rgba(138, 140, 140, 0.65);
+}
+
+.dot.orange {
+    background-color: rgba(225, 157, 11, 0.65);
+}
+
+.dot.green {
+    background-color: rgba(0, 172, 10, 0.65);
+}
+
+.dot.pink {
+    background-color: rgba(189, 0, 204, 0.65);
 }
 
 .dot.cage {
@@ -136,6 +148,24 @@ img {
     top: 90%;
     left: 87%;
     transform: translate(-87%, -90%);
+}
+
+.dot.rozol {
+    top: 55%;
+    left: 30%;
+    transform: translate(-30%, -55%);
+}
+
+.dot.billy {
+    top: 83%;
+    left: 88%;
+    transform: translate(-88%, -83%);
+}
+
+.dot.glue {
+    top: 15%;
+    left: 32%;
+    transform: translate(-32%, -15%);
 }
 
 /*********************************
